@@ -2,12 +2,15 @@ Olá! Estou em transição de carreira e recentemente concluí minha segunda gra
 
 Esteja á vontade para ver meus projetos, 
 
-Meus contatos:
+Meu contato:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tisheilasilva@gmail.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](
-https://mail.google.com/mail/?view=cm&fs=1&to=tisheilasilva@gmail.com
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](
+https://www.linkedin.com/in/sheilasheila
 )
+
+
+
+
 
 
 
