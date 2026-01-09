@@ -1,4 +1,5 @@
 Olá! Estou em transição de carreira e recentemente concluí minha segunda graduação em Análise e Desenvolvimento de Sistemas. Atualmente, concentro meus estudos e projetos em desenvolvimento backend, práticas DevOps e conceitos de Site Reliability Engineering (SRE), com foco em confiabilidade. Eu adoro estudar! Estuda a mesma área que eu? Podemos trocar conhecimentos! 👍🙂 <br>
+<br>
 No momento estou trabalhando em dois projetos: <br>
 1-) implementação de funções em um e-commerce <br>
 2-) implementação de uma aplicação em kubernetes utilizando práticas DevOps objetivando que a aplicação esteja sempre segura, disponível e escalável. 
