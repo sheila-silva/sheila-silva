@@ -1,4 +1,4 @@
-## Olá! Estou em transição de carreira e concluí minha segunda graduação em Análise e Desenvolvimento de Sistemas. Atualmente, concentro meus estudos e projetos em desenvolvimento backend, práticas DevOps e conceitos de Site Reliability Engineering (SRE), com foco em confiabilidade.
+---Olá! Estou em transição de carreira e concluí minha segunda graduação em Análise e Desenvolvimento de Sistemas. Atualmente, concentro meus estudos e projetos em desenvolvimento backend, práticas DevOps e conceitos de Site Reliability Engineering (SRE), com foco em confiabilidade.
 <!--
 **sheila-silva/sheila-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
