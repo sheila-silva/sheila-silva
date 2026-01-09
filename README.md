@@ -1,4 +1,12 @@
-Olá! Estou em transição de carreira e concluí minha segunda graduação em Análise e Desenvolvimento de Sistemas. Atualmente, concentro meus estudos e projetos em desenvolvimento backend, práticas DevOps e conceitos de Site Reliability Engineering (SRE), com foco em confiabilidade.
+Olá! Estou em transição de carreira e recentemente concluí minha segunda graduação em Análise e Desenvolvimento de Sistemas. Atualmente, concentro meus estudos e projetos em desenvolvimento backend, práticas DevOps e conceitos de Site Reliability Engineering (SRE), com foco em confiabilidade.
+
+Esteja á vontade para ver meus projetos, 
+
+Meus contatos:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tisheilasilva@gmail.com)
+
+
 <!--
 **sheila-silva/sheila-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
