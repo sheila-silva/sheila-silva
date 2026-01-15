@@ -2,7 +2,7 @@ Olá! Estou em transição de carreira e recentemente concluí minha segunda gra
 <br>
 No momento estou trabalhando em dois projetos: <br>
 1-) implementação de funções em um e-commerce <br>
-2-) implementação de uma aplicação em kubernetes utilizando práticas DevOps objetivando que a aplicação esteja sempre segura, disponível e escalável. 
+2-) implementação de uma aplicação em kubernetes utilizando práticas DevOps objetivando que a aplicação esteja segura, disponível e escalável. 
 
 
 Meu contato:
