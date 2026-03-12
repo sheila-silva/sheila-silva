@@ -1,4 +1,4 @@
-Olá! Concluí recentemente minha segunda graduação, análise e desenvolvimento de sistemas. Atualmente desenvolvo projetos com foco em desenvolvimento backend, práticas DevOps e fundamentos de site reliability engineering (SRE). Sou pós-graduada em gestão de projetos e metodologias ágeis e atualmente estou cursando pós-graduação em engenharia de software.
+Olá! Concluí recentemente minha segunda graduação: análise e desenvolvimento de sistemas. Atualmente desenvolvo projetos com foco em desenvolvimento backend, práticas DevOps e fundamentos de site reliability engineering (SRE). Sou pós-graduada em gestão de projetos e metodologias ágeis e atualmente estou cursando pós-graduação em engenharia de software.
 
 Eu adoro estudar! Você também estuda temas dessa área? Podemos trocar conhecimentos! 👍🙂 <br>
 <br>
