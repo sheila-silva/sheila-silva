@@ -3,6 +3,7 @@ Olá! Concluí recentemente minha segunda graduação: análise e desenvolviment
 Eu adoro estudar! Você também estuda temas dessa área? Podemos trocar conhecimentos! 👍🙂 <br>
 <br>
 No momento estou trabalhando em dois projetos: <br>
+
 1-) Implementação de uma aplicação em Kubernetes.
 
 2-) Implementação de testes em projeto java. 
