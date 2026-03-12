@@ -1,7 +1,7 @@
 Olá! concluí recentemente minha segunda graduação. Atualmente desenvolvo projetos com foco em desenvolvimento backend, práticas DevOps e fundamentos de Site Reliability Engineering (SRE). Sou pós graduada em gestão de projetos e metodologias ágeis e curso pós graduação em engenharia de software. Eu adoro estudar! Estuda temas da mesma área que eu? Podemos trocar conhecimentos! 👍🙂 <br>
 <br>
 No momento estou trabalhando em um projeto: <br>
-Que envolve a implementação de uma aplicação em Kubernetes, utilizando práticas de segurança com Istio e Helm para gerenciar configurações. 
+Que envolve a implementação de uma aplicação em Kubernetes, utilizando práticas de segurança com Istio e Helm para gerenciar configurações, além da implementação de testes em projeto java. 
 
 Meu contato:
 
