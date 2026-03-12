@@ -4,6 +4,7 @@ Eu adoro estudar! Você também estuda temas dessa área? Podemos trocar conheci
 <br>
 No momento estou trabalhando em dois projetos: <br>
 1-) Implementação de uma aplicação em Kubernetes.
+
 2-) Implementação de testes em projeto java. 
 
 Meu contato:
