@@ -1,10 +1,10 @@
-Olá! Concluí recentemente minha segunda graduação: análise e desenvolvimento de sistemas. Atualmente desenvolvo projetos com foco em desenvolvimento backend, práticas DevOps e fundamentos de site reliability engineering (SRE). Sou pós-graduada em gestão de projetos e metodologias ágeis e atualmente estou cursando pós-graduação em engenharia de software.
+Olá! Sou analista de sistemas e atualmente desenvolvo projetos com foco em desenvolvimento backend, práticas DevOps e fundamentos de site reliability engineering (SRE). Sou pós-graduada em gestão de projetos e metodologias ágeis e atualmente estou cursando pós-graduação em engenharia de software. 
 
 Eu adoro estudar! Você também estuda temas dessa área? Podemos trocar conhecimentos! 👍🙂 <br>
 <br>
 No momento estou trabalhando em dois projetos: <br>
 
-1-) Implementação de uma aplicação em Kubernetes.
+1-) Implementação de uma aplicação com Kubernetes.
 
 2-) Implementação de testes em projeto java. 
 
@@ -14,7 +14,7 @@ Meu contato:
 https://www.linkedin.com/in/sheilasheila
 )
 
-## 🚀 Stack Técnica
+## 🚀 Stack Técnica 
 
 ### Linguagens
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -40,6 +40,8 @@ https://www.linkedin.com/in/sheilasheila
 ### Ferramentas & Práticas
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### Engenharia de Software com IA
 
 
 
