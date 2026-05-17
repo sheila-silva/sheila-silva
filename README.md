@@ -2,7 +2,7 @@ Olá! Atualmente desenvolvo projetos com foco em desenvolvimento backend, práti
 
 Eu adoro estudar! Você também estuda temas dessa área? Podemos trocar conhecimentos! 👍🙂 <br>
 <br>
-No momento estou trabalhando em dois projetos: <br>
+No momento estou trabalhando: <br>
 
 1-) Implementando o projeto MovieFlix 
 
